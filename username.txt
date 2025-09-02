@@ -1,1 +1,1 @@
-To generate usernames to check use website random.org/strings and paste the generated usernames here 
+To generate usernames, use the website random.org/strings and paste the generated usernames here.
